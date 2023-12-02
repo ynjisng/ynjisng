@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ynjisng&show_icons=true&locale=en&theme=dark)
+
 ### Currently Working:
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -65,9 +67,12 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <br>
 </a>
 
-### ![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs?username=ynjisng&show_icons=true&locale=en&layout=compact&theme=dark)
-### ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ynjisng&show_icons=true&locale=en&theme=dark)
+
+# ![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs?username=ynjisng&show_icons=true&locale=en&layout=compact&theme=dark)
+
+
+
 
